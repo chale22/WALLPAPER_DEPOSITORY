@@ -1,0 +1,45 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "chris hale",
+			"url": "http://i.imgur.com/wWP3mA2.png",
+			"name": "City Scape"
+		},
+		{
+			"author": "chris hale",
+			"url": "http://i.imgur.com/Ie04S1z.png",
+			"name": "Stormtrooper_green"
+		},
+		{
+			"author": "sad-fantasy",
+			"url": "http://i.imgur.com/438h5Ro.png",
+			"name": "Dark Ruins"
+		},	
+		{
+			"author": "chris hale",
+			"url": "http://i.imgur.com/r18MEmW.jpg",
+			"name": "dark_night"
+		},	
+		{
+			"author": "chris hale",
+			"url": "http://i.imgur.com/rFr7XNS.jpg",
+			"name": "Green Texture"
+		},	
+		{
+			"author": "chris hale",
+			"url": "http://i.imgur.com/HZxlWhP.png",
+			"name": "vector_night"
+		},	
+			{
+			"author": "chris hale",
+			"url": "http://i.imgur.com/qYdSC2v.png",
+			"name": "Grey Gradient"
+		},	
+					{
+			"author": "chris hale",
+			"url": "http://i.imgur.com/nMQVffV.png",
+			"name": "Midnight Gradient"
+		}
+	]
+}
